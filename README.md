@@ -1,5 +1,8 @@
 # Prestige Integrity Monitor
-PRESTIGE TECH — by Dominik Wasilak — v0.3.1
+PRESTIGE TECH — by Dominik Wasilak — v0.3.2
+
+Wersja 0.3.2 nie uznaje nieodczytanych ACL/ADS za poprawną weryfikację.
+Opis zachowania baseline: [docs/FAILURES.md](docs/FAILURES.md).
 
 Bazowy stan integralności katalogu, porównanie NEW/MODIFIED/DELETED/UNCHANGED i kontrolowana aktualizacja.
 
